@@ -2,7 +2,6 @@ import { QueryClient, QueryClientProvider } from "react-query";
 import {
   Link,
   Outlet,
-  Router,
   RouterProvider,
   createRootRoute,
   createRoute,
